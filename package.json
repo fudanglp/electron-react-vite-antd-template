@@ -2,7 +2,7 @@
   "name": "electron-react-vite-antd-template",
   "productName": "electron-react-vite-antd-template",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Electron with react/vite/antd template",
   "main": ".vite/build/main.js",
   "scripts": {
     "start": "electron-forge start",
@@ -14,7 +14,7 @@
   "keywords": [],
   "author": {
     "name": "Lipeng Guo",
-    "email": "guolipeng@smartxtruck.com"
+    "email": "i@glp.ai"
   },
   "license": "MIT",
   "devDependencies": {
