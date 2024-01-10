@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "esnext",
     "module": "CommonJS",
+    "useDefineForClassFields": true,
     "lib": ["dom", "esnext"],
     "jsx": "react-jsx",
     "allowJs": true,
